@@ -1,7 +1,5 @@
 # Requirements #
 
-Requirements.
-
 click==6.7
 Flask==0.12.2
 itsdangerous==0.24
